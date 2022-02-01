@@ -1,11 +1,16 @@
 installing pillow in ubuntu 
 pip install pillow
 
-if did not installed try , thr cmd given below
+if did not installed try , the cmd given below
 
 sudo apt-get install libjpeg-dev zlib1g-dev 
 
 
 then install with pip 
-usning cmd 
+using cmd 
 pip install pillow
+
+
+thank you 
+ATUL KUMAR
+(IOT DEVELOPER)
